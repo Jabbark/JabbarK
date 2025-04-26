@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabbar Khan</h1>
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **jabbarmkhan647@gmail.com**
 
